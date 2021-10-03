@@ -19,3 +19,5 @@ Referencia:
 
 https://docs.wixstatic.com/ugd/44046b_f0eaab042ba042dcb58f3e08b46bb4d7.pdf
 página 37
+
+Hola amigo, me dejaron este ejercicio en la clase de microprocesadores pero no logro entenderle muy bien, podrías explicarmelo?
